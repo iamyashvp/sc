@@ -1,0 +1,14 @@
+{
+  "name": "universal-scraper",
+  "version": "1.0.0",
+  "description": "Adaptive Playwright Scraper for various websites",
+  "main": "universal_scraper.js",
+  "scripts": {
+    "start": "node universal_scraper.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "playwright": "^1.60.0",
+    "xml2js": "^0.6.2"
+  }
+}
